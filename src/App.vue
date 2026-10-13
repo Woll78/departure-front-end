@@ -80,6 +80,10 @@ export default {
         'to': '/ns',
         'name': 'Nederlandse Spoorwegen 🇳🇱'
       },
+      'kent': {
+        'to': '/kent',
+        'name': 'Kent 🇬🇧'
+      },
       'ratp': {
         'to': '/ratp',
         'name': 'RATP 🇫🇷'

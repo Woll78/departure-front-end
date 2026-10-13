@@ -7,6 +7,7 @@ import Sncf from '../views/Sncf.vue'
 import NationalRail from '../views/NationalRail.vue'
 import TflTube from '../views/TflTube.vue'
 import Ns from '../views/NS.vue'
+import Kent from '../views/Kent.vue'
 import Admin from '../views/Admin.vue'
 
 Vue.use(VueRouter)
@@ -18,6 +19,7 @@ const routes = [
   { path: '/national-rail', component: NationalRail },
   { path: '/tfl-tube', component: TflTube },
   { path: '/ns', component: Ns },
+  { path: '/kent', component: Kent },
   { path: '/admin', component: Admin },
 ]
 
